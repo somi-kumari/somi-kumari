@@ -127,22 +127,16 @@
 <br/> --> -->
 <hr/>
 
-<!-- ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<p align="center">
-	<a href="mailto:saikiran11471@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/sai-kiran-450086206/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/saikiran11461" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	
-</p> -->
+
 <br/>
 <hr/>
 
  ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
-<div align="center"><img src="https://github-readme-stats.https://app.netlify.com/teams/somisourabh96/overview?_ga=2.232735839.1108454182.1651076865-538807184.1649662162&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.https://app.netlify.com/teams/somi-kumari/overview?_ga=2.232735839.1108454182.1651076865-538807184.1649662162&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran11461" alt=" somi kumari" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somi-kumari" alt=" somi kumari" /></p>
 <br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.https://app.netlify.com/teams/somisourabh96/overview?_ga=2.232735839.1108454182.1651076865-538807184.1649662162t" alt="somikumari" /></p>
+ <p align="center" ><img align="center" src="https://github-readme-stats.https://app.netlify.com/teams/somi-kumari/overview?_ga=2.232735839.1108454182.1651076865-538807184.1649662162t" alt="somikumari" /></p>
  <br/>
 
 <!-- <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
