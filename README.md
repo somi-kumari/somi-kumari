@@ -1,4 +1,5 @@
  ### Hi there 👋
+ <h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
 <h5 align="center">I am a Full stack web developer💻. I am a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -6,20 +7,7 @@
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
 
-<!-- - I’m currently learning🌱 MERN stack and applying them on a few basic applications you can check them here. [Click here](https://github.com/saikiran11461)  
-  
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
- 
-- Aside from coding, I enjoy hiking and playing Badminton.  
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/> -->
 <br>
 
 <hr/>
@@ -39,10 +27,10 @@
 <a href="https://hashnode.com/@somi" target="blank"><img align="center" src="https://img.icons8.com/color/2x/hashnode.png/master/src/images/icons/Social/hashnode.svg" alt="@somi" height="30" width="40" /></a>
 </p>
 
- <img style="width:100%" src="https://github.com/AleemAlam/AleemAlam/raw/master/Images/full-stack-development.gif">
 
-<h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+
+
+<!-- <p align="center">
 <!--   <a href="https://github.com/saikiran11461/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a> -->
 </p>
 <hr color="blue"/>
@@ -56,7 +44,7 @@
 </p> -->
 
 <!-- ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran11461&theme=algolia" alt="Somi kumari" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran11461&theme=algolia" alt="Somi kumari" /></p> --> -->
 
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -125,7 +113,7 @@
 
 <!-- ## 📊 Github Stats
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<!--   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/GoAlive13/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GoAlive13&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -136,7 +124,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-<br/> -->
+<br/> --> -->
 <hr/>
 
 <!-- ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
@@ -149,7 +137,7 @@
 <br/>
 <hr/>
 
-## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
+<!-- ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saikiran11461&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran11461" alt=" somi kumari" /></p>
@@ -162,3 +150,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) -->
 
 <br/>
+ -->
