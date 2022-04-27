@@ -2,7 +2,7 @@
  <h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About Me <img src = "https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ih9k15t1f1ea48d22i2x3c3k86xi7kcfl3eg9tg4&rid=200w.webp&ct=g" width = 100px> 
-<h5 align="center">I am a Full stack web developer💻. I am a social person love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h5 align="center">I am a Full Stack Web Developer💻. I am a social person love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
 <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/>
@@ -31,22 +31,18 @@
 
 
 
-<!-- <p align="center">
-<!--   <a href="https://github.com/saikiran11461/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a> -->
+
+
+
+
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=somi-kumari&label=Profile%20views&color=0e75b6&style=plastic" alt="Somi Kumari" /> 
 </p>
-<hr color="blue"/>
 
-
-
-
-
-<!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=saikiran11461&label=Profile%20views&color=0e75b6&style=plastic" alt="Somi Kumari" /> 
-</p> -->
-
-<!-- ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran11461&theme=algolia" alt="Somi kumari" /></p> --> -->
-
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=somi-kumari&theme=algolia" alt="Somi kumari" /></p> 
+ 
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -126,15 +122,7 @@
 <br/> -->
 <hr/>
 
-<!-- ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<p align="center">
-	<a href="mailto:saikiran11471@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/sai-kiran-450086206/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/saikiran11461" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	
-</p>
-<br/>
-<hr/> -->
+
 
 ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=somi-kumari&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
@@ -144,10 +132,5 @@
  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somi-kumari&show_icons=true&locale=en&layout=compact" alt="somi kumari" /></p>
  <br/>
 
-<!-- <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<br/> -->
 
 
