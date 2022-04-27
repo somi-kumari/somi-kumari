@@ -1,4 +1,4 @@
- ### Hi there 👋
+
  <h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> 
@@ -137,12 +137,12 @@
 <br/>
 <hr/>
 
-<!-- ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saikiran11461&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+ ## Github Stats  <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> 
+<div align="center"><img src="https://github-readme-stats.https://app.netlify.com/teams/somisourabh96/overview?_ga=2.232735839.1108454182.1651076865-538807184.1649662162&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran11461" alt=" somi kumari" /></p>
 <br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.netlify.app/api/top-langs?username=somi-kumari&show_icons=true&locale=en&layout=compact" alt="somikumari" /></p>
+ <p align="center" ><img align="center" src="https://github-readme-stats.https://app.netlify.com/teams/somisourabh96/overview?_ga=2.232735839.1108454182.1651076865-538807184.1649662162t" alt="somikumari" /></p>
  <br/>
 
 <!-- <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
