@@ -41,18 +41,15 @@
 </p></span>
 <br/>
 
-<h3 align="left">Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"></h3>
-<!-- ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> -->
+
+ ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> 
 <p align="left">
 <a href="https://twitter.com/somi_a0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somi_a0317" height="30" width="40" /></a>
-	
 <a href="https://linkedin.com/in/somikumari2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somikumari2010" height="30" width="40" /></a>
-	
 <a href="https://hashnode.com/@somi" target="blank"><img align="center" src="https://img.icons8.com/color/2x/hashnode.png/master/src/images/icons/Social/hashnode.svg" alt="@somi" height="30" width="40" /></a>
-	
 <a href="mailto:somisourabh96@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/gmail-new.png" alt="@somi" height="30" width="40" /></a>
 </p>
-
+<br/>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=somi-kumari&label=Profile%20views&color=0e75b6&style=plastic" alt="Somi Kumari" /> 
