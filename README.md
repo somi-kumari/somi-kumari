@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <img width="100%" height="5%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+  <img width="100%" height="5%" align="center" alt="Github" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ih9k15t1f1ea48d22i2x3c3k86xi7kcfl3eg9tg4&rid=200w.webp&ct=g" />
 <br/> 
 
 
