@@ -10,7 +10,7 @@
 
 <br>
 
-<hr/>
+<!-- <hr/> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/somi-kumari](https://github.com/somi-kumari)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing](https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing)
 - 
-- <img width="50%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+ <img width="80%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/> 
 
 ## 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
@@ -31,11 +31,11 @@
 	 <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
   <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
   <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
   <img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
-	<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" height="50" width="50"/>
+	<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" height="55" width="55"/>
 	
 </p></span>
 <br/>
