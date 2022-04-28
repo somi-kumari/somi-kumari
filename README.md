@@ -1,11 +1,11 @@
 
  <h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About Me <img src = "https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ih9k15t1f1ea48d22i2x3c3k86xi7kcfl3eg9tg4&rid=200w.webp&ct=g" width = 40px> 
+## About Me <img src = "https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ih9k15t1f1ea48d22i2x3c3k86xi7kcfl3eg9tg4&rid=200w.webp&ct=g" width = 50px> 
 <h5 align="center">I am a Full Stack Web Developer💻. I am a social person love to take up new challenges and learn new skills. I like to interact with people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
-<img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
-<br/>
+<!-- <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<br/> -->
 
 
 <br>
@@ -19,6 +19,9 @@
 - 📫 How to reach me **somisourabh96@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing](https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing)
+- 
+- <img width="50%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<br/> 
 
 ## 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 <span><p align="left">
@@ -28,22 +31,25 @@
 	 <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
   <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
   <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
   <img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
-	<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" height="60" width="60"/>
+	<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" height="50" width="50"/>
 	
 </p></span>
 <br/>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 <p align="left">
-<a href="https://twitter.com/somi_a0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somi_a0317" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/somikumari2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somikumari2010" height="30" width="40" /></a>
-<a href="https://hashnode.com/@somi" target="blank"><img align="center" src="https://img.icons8.com/color/2x/hashnode.png/master/src/images/icons/Social/hashnode.svg" alt="@somi" height="30" width="40" /></a>
-<a href="mailto:somisourabh96@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/2x/gmail-new.png" alt="@somi" height="30" width="40" /></a>
+<a href="https://twitter.com/somi_a0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somi_a0317" height="50" width="50" /></a>
+	
+<a href="https://linkedin.com/in/somikumari2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somikumari2010" height="50" width="50" /></a>
+	
+<a href="https://hashnode.com/@somi" target="blank"><img align="center" src="https://img.icons8.com/color/2x/hashnode.png/master/src/images/icons/Social/hashnode.svg" alt="@somi" height="50" width="50" /></a>
+	
+<a href="mailto:somisourabh96@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/2x/gmail-new.png" alt="@somi" height="50" width="50" /></a>
 </p>
 
 
