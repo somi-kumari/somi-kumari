@@ -4,7 +4,7 @@
  <img width="100%" height="10%" object-fit="cover" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/> 
 
-## About Me <img src = "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/giphy-1-12.gif" width = 50px> 
+## About Me <img src = "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/07/giphy-1-12.gif" width = 70px> 
 <h5 align="center">I am a Full Stack Web Developer💻. I am a social person love to take up new challenges and learn new skills. I like to interact with people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
 <!-- <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
