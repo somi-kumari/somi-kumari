@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing](https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing)
  
- <img width="60%" height="30%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+ <img width="60%" height="20%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/> 
 
 ## 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
