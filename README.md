@@ -4,7 +4,7 @@
  <img width="100%" height="10%" object-fit="cover" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/> 
 
-## About Me <img src = "https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ih9k15t1f1ea48d22i2x3c3k86xi7kcfl3eg9tg4&rid=200w.webp&ct=g" width = 50px> 
+## About Me <img src = "https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width = 50px> 
 <h5 align="center">I am a Full Stack Web Developer💻. I am a social person love to take up new challenges and learn new skills. I like to interact with people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br/>
 <!-- <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
