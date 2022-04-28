@@ -1,5 +1,8 @@
 
  <h1 align="center">Hi , I'm  Somi Kumari<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <img width="30%" height="20%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
+<br/> 
+
 
 ## About Me <img src = "https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47ih9k15t1f1ea48d22i2x3c3k86xi7kcfl3eg9tg4&rid=200w.webp&ct=g" width = 50px> 
 <h5 align="center">I am a Full Stack Web Developer💻. I am a social person love to take up new challenges and learn new skills. I like to interact with people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -20,8 +23,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing](https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing)
  
- <img width="60%" height="20%" align="center" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
-<br/> 
 
 ## 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 <span><p align="left">
