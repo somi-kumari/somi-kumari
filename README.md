@@ -5,7 +5,7 @@
 <br/> 
 
 ## About Me <img src = "https://pro2-bar-s3-cdn-cf6.myportfolio.com/86aa0881edb45f7f174dee0a06b1360b/7a8a8064-cfbc-4115-83f2-30a2c42a092c_rw_600.gif?h=015e48302b7be388663bb64770bfb172" width = 50px> 
-<h5 align="center">A Full Stack Web Developer💻</h5> dedicated to continuous learning, collaboration and delivering high-quality code. I am a sociable individual who thrives on taking up new challenges, enjoy interacting with people, exchanging ideas, spreading knowledge, and promoting positivity .  </h4>
+<h5 align="center">A Full Stack Web Developer💻 dedicated to continuous learning, collaboration and delivering high-quality code. I am a sociable individual who thrives on taking up new challenges, enjoy interacting with people, exchanging ideas, spreading knowledge, and promoting positivity .  </h4>
 <br/>
 <!-- <img width="40%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 <br/> -->
