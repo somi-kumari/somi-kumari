@@ -23,7 +23,6 @@
 <span><p align="left">
 <img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="HTML5"/>
 <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
-<img src="https://icons8.com/icon/84710/bootstrap" alt="Bootstrap"/>
 <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
 <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
 <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
