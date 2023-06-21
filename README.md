@@ -22,16 +22,18 @@
 ## 🛠️ Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px>
 <span><p align="left">
 <img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="HTML5"/>
- <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
+<img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3"/>
+<img src="https://icons8.com/icon/84710/bootstrap" alt="Bootstrap"/>
 <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
-	 <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
-  <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
+<img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
+<img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
+
+<img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
+<img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
+<img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
-  <img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
-	<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" height="55" width="55"/>
+<img src="https://img.icons8.com/color/60/000000/c-programming.png" alt="C"/>
+<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="C++" height="55" width="55"/>
 	
 </p></span>
 <br/>
