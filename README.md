@@ -26,7 +26,6 @@
 <img src="https://img.icons8.com/color/60/000000/javascript--v1.png" alt="JavaScript"/>
 <img src="https://img.icons8.com/color/60/000000/react-native.png" alt="React"/>
 <img src="https://img.icons8.com/color/60/000000/redux.png" alt="Redux"/>
-
 <img src="https://img.icons8.com/color/60/000000/nodejs.png" alt="NodeJS"/>
 <img src="https://img.icons8.com/color/60/000000/mongodb.png" alt="MongoDB"/>
 <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git"/>
