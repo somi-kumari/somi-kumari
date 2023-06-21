@@ -13,11 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/somi-kumari](https://github.com/somi-kumari)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Somi](https://hashnode.com/@Somi)
+- 📫 How to reach me **somi.kumari020@gmail.com**
 
-- 📫 How to reach me **somisourabh96@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing](https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IQG-mgjkMxpZeDgJfEuwy_4chj5Kl2l0/view?usp=sharing](https://drive.google.com/drive/folders/1S1N0mVDIaV9pmDzccZlKgU-ehYg-BGgD?usp=sharing)
  
 
 
