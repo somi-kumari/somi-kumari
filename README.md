@@ -39,7 +39,7 @@
 
  ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> 
 <p align="left">
-<a href="mailto:somisourabh96@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/2x/gmail.png" alt="@somi" height="40" width="40" /></a>
+<a href="mailto:somi.kumari020@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/2x/gmail.png" alt="@somi" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/somikumari2010" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/linkedin.png" alt="somikumari2010" height="40" width="40" /></a>
 <a href="https://twitter.com/somi_a0317" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/twitter.png" alt="somi_a0317" height="40" width="40" /></a>
 <a href="https://hashnode.com/@somi" target="blank"><img align="center" src="https://img.icons8.com/color/2x/hashnode.png/master/src/images/icons/Social/hashnode.svg" alt="@somi" height="40" width="40" /></a>
